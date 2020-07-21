@@ -1,7 +1,7 @@
+# first we need to import flask
 from flask import Flask
 
 # in order for us to use flask we need to create an instance of our app
-
 # creating a flask instance
 app = Flask(__name__)
 
